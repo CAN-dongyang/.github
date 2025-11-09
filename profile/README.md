@@ -9,6 +9,22 @@ CAN Github Organization 페이지입니다.
 [Start_With (Game)](../game/start_with)
 <hr>
 
+### Teams
+
+[Game Team Page](../game)
+<hr>
+
 ### 이 Organization 공간은 자유롭게 추가 가능합니다.
 
-[Game Team 바로가기](../game)
+[토론 바로가기](https://github.com/orgs/CAN-dongyang/discussions)<br><br>
+게시물의 종류는 다음과 같습니다.
+
+💬 General : Chat about anything and everything here
+
+💡 Ideas : Share ideas for new features
+
+🗳️ Polls : Take a vote from the community
+
+🙏 Q&A : Ask the community for help
+
+🙌 Show and tell : Show off something you've made

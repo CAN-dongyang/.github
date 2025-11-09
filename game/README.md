@@ -4,6 +4,7 @@ Game Team 페이지입니다.
 
 만약 자신이 만들고 싶은 / 도움을 받고 싶은 게임이 있다면 Repository를 만들어주세요.
 
+같이 만들기를 원하는 게임이 있다면 [토론 페이지](https://github.com/orgs/CAN-dongyang/discussions)을 참고해주세요
 
 #### 현재 팀에서/팀원이 개발 중인 게임 목록
 + [FTD(가제)](https://github.com/CAN-dongyang/FTD.git)
